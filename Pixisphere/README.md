@@ -1,8 +1,8 @@
 A quick view to the website:
 
-![Homepage Screenshot](./public/images/home.png)
-![Profile Screenshot](./public/images/profile.png)
-![Enquiry Screenshot](./public/images/enquiry.png)
+![Homepage Screenshot](./screenshot/home.png)
+![Profile Screenshot](./screenshot/profile.png)
+![Enquiry Screenshot](./screenshot/enquiry.png)
 
 
 ## About the website: 
