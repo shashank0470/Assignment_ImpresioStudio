@@ -12,7 +12,13 @@ best photographers and studios for maternity, newborn, birthday, and other speci
 
 ## Setup Intruction:
 
+1.git clone https://github.com/shashank0470/Assignment_ImpresioStudio.git
 
+2.cd Assignment_ImpresioStudio
+
+3.npm install
+
+4.npm run dev
 
 
 
